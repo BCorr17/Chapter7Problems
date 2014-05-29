@@ -9,8 +9,9 @@ namespace Problem_2
     {
         private double Philodendron;
 
-        public Plant1 (double Philodendron)
+        public Houseplant(double Philodendron)
         {
             this.Philodendron = 29.99;
+        }
     }
 }
